@@ -35,7 +35,7 @@ A library automation project developed in C#.
 
 ## 📫 Contact
 
-- **LinkedIn:** [Yoldaş Çiçekli](https://www.linkedin.com/in/yolda%C5%9F-%C3%A7i%C3%A7ekli)
+- **LinkedIn:** [Yoldaş Çiçekli][(https://www.linkedin.com/in/yolda%C5%9F-%C3%A7i%C3%A7ekli](https://www.linkedin.com/in/yolda%C5%9F-%C3%A7i%C3%A7ekli-7703852b2/))
 
 ---
 
