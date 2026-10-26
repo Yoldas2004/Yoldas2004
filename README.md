@@ -1,7 +1,5 @@
 <img align="right" height="150" src="https://media.tenor.com/IEcL3OZkTToAAAAM/chloe-sideye.gif" alt="sideye gif" />
-
-<h2 align="left">Hi 👋, I'm Yoldaş</h2>
-
+<h1 align="left">Hi 👋, I'm Yoldaş</h1>
 Backend developer focused on **C# and .NET**, and a **Management Information Systems** student in Turkey.
 I enjoy building APIs and automation tools with a clean, layered structure — and I care about understanding *why* a design works, not just *that* it works.
 
